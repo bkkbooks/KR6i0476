@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6i0476/v1
+canonical_location: https://kanripo.org/bkk/KR6i0476/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說八大人覺經
+  identifiers:
+    alt_id:
+    - T17n0779
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0779.xml
+    old_id: T17n0779
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0476_000.yaml, hash: 'sha256:40a2ed0ab6c685ef02018d19a2660dc455ac539f57a04d078451961f56d6ca81'}
+  - {seq: 1, filename: KR6i0476_001.yaml, hash: 'sha256:bd7cb7636d53e9001bf6b943d4fb75a8ca2a9a63d1fe52c89f4a8fd1e25f63bb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0476_001.markers.yaml, hash: 'sha256:e7f4cc53e555f68dd5a20c025f394f3e0e85a9dece400e74cdc6cfd7db235f4d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0476_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 383
+  label: 佛說八大人覺經
+  type: juan
+  level: 1
+hash: sha256:c1c491a245c221b49d02b4ca918f69cc35beb5f60944afbcb0ef394e48396784
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

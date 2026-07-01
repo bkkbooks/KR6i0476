@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6i0476/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後漢安息國三藏安世高譯為佛弟子常於晝夜至心誦念八大人覺第一覺悟世間無常國土危脆四大苦空五陰無我生滅變異虛偽無主心是惡源形為罪藪如是觀察漸離生死第二覺知多欲為苦生死疲勞從貪欲起少欲無為身心自在第三覺知心無厭足唯得多求增長罪惡菩薩不爾常念知足安貧守道唯慧是業第四覺知懈怠墜落常行精進破煩惱惡摧伏四魔出陰界獄第五覺悟愚癡生死菩薩常念廣學多聞增長智慧成就辯才教化一切悉以大樂第六覺知貧苦多怨橫結惡緣菩薩布施等念冤親不念舊惡不憎惡人第七覺悟五欲過患雖為俗人不染世樂常念三衣瓦鉢法器志願出家守道清白梵行高遠慈悲一切第八覺知生死熾然苦惱無量發大乘心普濟一切願代眾生受無量苦令諸眾生畢竟大樂如此八事乃是諸佛菩薩大人之所覺悟精進行道慈悲修慧乘法身船至涅槃岸復還生死度脫眾生以前八事開導一切令諸眾生覺生死苦捨離五欲修心聖道若佛弟子誦此八事於念念中滅無量罪進趣菩提速登正覺永斷生死常住快樂
+  hash: sha256:617d5c8a3a5bed117cc270739906b95f77fcbff18b242ec0b49bbabd7303e368
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 佛說八大人覺經, id: KR6i0476_T_001-juan-start, juan_n: '001', jhead: 佛說八大人覺經}
+  - {type: 'cbeta:juan-end', offset: 383, content: 佛說八大人覺經, id: KR6i0476_T_001-juan-end, juan_n: '001', jhead: 佛說八大人覺經}
+metadata:
+  title: 佛說八大人覺經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0779.xml
+    old_id: T17n0779
+hash: sha256:d933c2602e9cc5bee27d7e0ca1cf1fd95986706ef68ae729ba7f82896f330b99
