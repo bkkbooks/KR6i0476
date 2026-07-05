@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0476_000.yaml, hash: 'sha256:40a2ed0ab6c685ef02018d19a2660dc455ac539f57a04d078451961f56d6ca81'}
-  - {seq: 1, filename: KR6i0476_001.yaml, hash: 'sha256:bd7cb7636d53e9001bf6b943d4fb75a8ca2a9a63d1fe52c89f4a8fd1e25f63bb'}
+  - {seq: 1, filename: KR6i0476_001.yaml, hash: 'sha256:d933c2602e9cc5bee27d7e0ca1cf1fd95986706ef68ae729ba7f82896f330b99'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0476_001.markers.yaml, hash: 'sha256:e7f4cc53e555f68dd5a20c025f394f3e0e85a9dece400e74cdc6cfd7db235f4d'}
+  - {seq: 0, role: markers, filename: assets/KR6i0476_000.markers.yaml, hash: 'sha256:750258c73c3ff7d809fbb28f7f7735aa5965e73e5bd41d2eae37e0cb0c89aaa0'}
+  - {seq: 1, role: markers, filename: assets/KR6i0476_001.markers.yaml, hash: 'sha256:08129b95032e3b76670c9ed66072b5ccd3b5dddb0b1f38a28a8c744fc4f770bc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說八大人覺經
   type: juan
   level: 1
-hash: sha256:c1c491a245c221b49d02b4ca918f69cc35beb5f60944afbcb0ef394e48396784
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:7a5ef430554f1d0608f13d506ea940c11fa0678e669052e30f7307537331a56b
