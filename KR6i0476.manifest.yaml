@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0476/v1
 canonical_location: https://kanripo.org/bkk/KR6i0476/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說八大人覺經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0476_000.yaml, hash: 'sha256:40a2ed0ab6c685ef02018d19a2660dc455ac539f57a04d078451961f56d6ca81'}
-  - {seq: 1, filename: KR6i0476_001.yaml, hash: 'sha256:d933c2602e9cc5bee27d7e0ca1cf1fd95986706ef68ae729ba7f82896f330b99'}
+  - {seq: 1, filename: KR6i0476_001.yaml, hash: 'sha256:dc02c7bd6aa5434dc841b9c25dd6b5334ccfb9a2556b05b9a237af2bb49c10cf'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0476_000.markers.yaml, hash: 'sha256:750258c73c3ff7d809fbb28f7f7735aa5965e73e5bd41d2eae37e0cb0c89aaa0'}
-  - {seq: 1, role: markers, filename: assets/KR6i0476_001.markers.yaml, hash: 'sha256:08129b95032e3b76670c9ed66072b5ccd3b5dddb0b1f38a28a8c744fc4f770bc'}
+  - {seq: 1, role: markers, filename: assets/KR6i0476_001.markers.yaml, hash: 'sha256:e85969f850ce5d749260213220329e991182971a1c59e4f0bc26cda9ff6d9351'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說八大人覺經
   type: juan
   level: 1
-hash: sha256:7a5ef430554f1d0608f13d506ea940c11fa0678e669052e30f7307537331a56b
+hash: sha256:5932a77a529cd45ac4068af6467db412dbe7fb99ad3d7bb0e4f3fb44e33f4985
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
